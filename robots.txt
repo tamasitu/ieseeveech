@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oedoolaed.skuldnet.org/sitemap.xml
